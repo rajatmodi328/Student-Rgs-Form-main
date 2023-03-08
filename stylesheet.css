@@ -1,0 +1,9 @@
+*
+{
+background: linear-gradient(orange,white,green);
+background-repeat: no-repeat;
+}
+.C a:hover
+{
+    background: grey;
+}
